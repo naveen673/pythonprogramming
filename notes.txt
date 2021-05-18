@@ -1,0 +1,5 @@
+While loops:
+
+Functions:
+
+Function should always start with "def"
