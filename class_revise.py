@@ -13,7 +13,6 @@ def sum(a, b):
 
 def statement_print():
     print("ITS WORKING")
-
  statement_print()
 z=sum(5,6)
 y=sum(9,10)
