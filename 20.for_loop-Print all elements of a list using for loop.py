@@ -11,7 +11,7 @@ Take 10 integers from user and add print sum of their squares
 '''
 
 sum=0
-for i in range(2):
+for i in range(10):
     n=int(input("Enter an integer: "))
     print(n**2)
     sum=sum+(n**2)           # ** means Exponent in Python
