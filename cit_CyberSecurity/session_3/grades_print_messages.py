@@ -11,6 +11,7 @@ else:
 '''
 
 grade=int(input("Enter your grade: "))
+#grade=float(input("Enter your grade: "))
 if grade>=90:
     print("Very Good!")
 elif grade>=80 and grade<=89:
