@@ -20,4 +20,4 @@ if question2 == 'Yes' or question2 == 'yes':
     print("I am sure that was a good day!")
 else:
     print("You are " + str(2021 - question1-1) + " years old.")
-    print("I hope your will have a good one!")
+    print("I hope you will have a good one!")
