@@ -6,6 +6,14 @@ ii. You as a user will provide two numbers, one for the minimum and other for th
 iii. For this, use for loop to calculate the times table for the given numbers.
 iv. Please consider the below output as an example.
 """
+"""
+--- psuedo code ---
+
+Take the three inputs multiplication table number, min value and max value for the range of the table
+for value in range(minvalue, maxvalue+1):
+   print the multiplication pattern (number x value = number*value)
+"""
+
 
 # Multiplication table (from 1 to 10) in Python
 

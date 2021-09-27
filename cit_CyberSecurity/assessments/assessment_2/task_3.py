@@ -10,6 +10,16 @@ Sample Input: 20  Corresponding output: Height of the pyramid is 5
 Sample Input: 1000  Corresponding output: Height of the pyramid is 44
 Sample Input: 2  Corresponding output: Height of the pyramid is 1
 """
+'''
+---- psuedo code ---
+
+initialize height and inlayer to be zero and 1 respectively
+take the number of blocks from user
+while (inlayer is less than or equal to number of blocks):
+   height=height+1
+   blocks=blocks-inlayer
+   inlayer=inlayer=inlayer+1
+'''
 
 blocks = int(input("Enter the number of blocks: "))
 
